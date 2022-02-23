@@ -25,10 +25,6 @@ from setup.colors import r,c,g,y,ran
 from setup.sprint import sprint
 
 
-try:
-    import socks
-except ModuleNotFoundError:
-    os.system("pip install spcks")
 
 
 
