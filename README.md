@@ -14,7 +14,7 @@
 
 
 
-#Install in Termux 
+Install in Termux 
 1. git clone https://github.com/hacker6291/password-checker.git
 2. ls
 3. cd password-checker
