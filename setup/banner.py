@@ -30,8 +30,8 @@ def banner():
     print(c.ran + '-'*63)
     print("|" + "*"* 60 + c.ran + "|")
 
-    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on Instagram @qadirahmad ", "- " * 4 + c.ran + "|")
-    print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Follow me on Instagram @qadirahmad6291 ", "- " * 4+c.ran + "|")
+    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on FaceBook @cybershielddefender", "- " * 4 + c.ran + "|")
+    print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Follow me on Instagram @cybershielddefender", "- " * 4+c.ran + "|")
     print(c.ran , "\n"+ "|"+ Style.BRIGHT + Fore.LIGHTRED_EX, "- " * 4, "[+] Github: https://github.com/hacker629 ", "- " * 3+c.ran + "|")
     print(c.ran + "\n"+ "|" + "*" * 60+c.ran + "|")
 
@@ -42,8 +42,8 @@ def banner2():
     print(c.ran + '-'*63)
     print("|" + "*"* 60 + c.ran + "|")
 
-    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on Instagram @qadirahmad ", "- " * 4 + c.ran + "|")
-    print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Follow me on Instagram@qadirahmad6291", "- " * 4+c.ran + "|")
+    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on Instagram @cybershielddefender ", "- " * 4 + c.ran + "|")
+    print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Follow me on Instagram @cybershielddefender", "- " * 4+c.ran + "|")
     print(c.ran , "\n"+ "|"+ Style.BRIGHT + Fore.LIGHTRED_EX, "- " * 4, "[+] Github:  https://github.com/hacker6291  ", "- " * 3+c.ran + "|")
     print(c.ran + "\n"+ "|" + "*" * 60+c.ran + "|")
 
