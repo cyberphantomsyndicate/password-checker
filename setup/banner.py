@@ -16,7 +16,7 @@ logo = f"""
 | |___| | | |  __/ (__|   <  __/ |
  \____|_| |_|\___|\___|_|\_\___|_|
  
-                             {c + "coded By: cybershielddefender"+y +" "}             
+                             {c + "coded By: cyberphantomsyndicate"+y +" "}             
                                                                                                                    
 """
 c = colors
