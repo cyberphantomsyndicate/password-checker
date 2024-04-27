@@ -8,7 +8,7 @@ def startMessage ():
         print (Fore .RED +'[X] Wrong Code')
         print (Fore .BLUE +''' 
    1. Go to Insta and massage 
-   2. Insta ID: cybershielddefender
+   2. Insta ID: cyberphantomsyndicate
    3. Send massage for code
    4. Next time come with code and use this tool
    5. bye
